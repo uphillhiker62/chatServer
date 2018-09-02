@@ -1,0 +1,39 @@
+User2 has joined the chat
+User1: hello world
+
+User2: this is a test from user 2
+
+User2: wahoo it works
+
+User1: does mine work?
+
+User1: yeeeeehaaaawwww!!!!
+
+User1: finally 
+
+User1: lets eat pizza to celebrate
+
+User2: celebrate good times, oh yeah!
+
+User3 has joined the chat
+User3 has joined the chat
+User3: user 3 here for business
+
+User3: user 3 here for business
+
+User3: I'll bring the drinks
+
+User3: I'll bring the drinks
+
+User2 has joined the chat
+User3 has joined the chat
+User3 has joined the chat
+User3 has left the chat
+User3 has left the chat
+User1 has left the chat
+User2 has joined the chat
+User2 has left the chat
+User2 has joined the chat
+User2 has joined the chat
+User2 has joined the chat
+User2 has joined the chat
